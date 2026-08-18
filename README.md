@@ -6,7 +6,11 @@ I am a graduate Finance student with interests in investment research, financial
 
 ## Investment Research & Financial Analysis
 
-- **BlackRock (NYSE: BLK) — Financial Performance & Relative Valuation**
+- **[BlackRock (NYSE: BLK) — Financial Performance & Relative Valuation](https://github.com/rushithagalidevara/blackrock-financial-analysis-valuation)**
+  - Financial statement and cash-flow analysis
+  - AUM, profitability, efficiency, and earnings-quality analysis
+  - Peer benchmarking and relative valuation
+  - P/E sensitivity analysis
   - Financial statement and cash-flow analysis
   - AUM, profitability, efficiency, and earnings-quality analysis
   - Peer benchmarking and relative valuation
