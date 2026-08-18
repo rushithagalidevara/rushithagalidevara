@@ -16,10 +16,11 @@ I am a graduate Finance student with interests in investment research, financial
   - Peer benchmarking and relative valuation
   - P/E sensitivity analysis
 
-- **Walmart vs. Target — Comparative Equity Valuation & Fundamental Analysis**
-  - Comparative fundamental and ratio analysis
-  - DuPont and RNOA analysis
+- **[Walmart vs. Target — Comparative Financial Analysis & Valuation](https://github.com/rushithagalidevara/walmart-vs-target-financial-analysis)**
+  - Comparative profitability, efficiency, liquidity, and solvency analysis
+  - DuPont and RNOA decomposition
   - DCF valuation and sensitivity analysis
+  - Investment conclusions for Walmart and Target
 
 - **Walmart (NYSE: WMT) — Equity Valuation**
   - Dividend Discount Model (DDM)
