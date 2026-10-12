@@ -11,10 +11,11 @@ I am a graduate Finance student with interests in investment research, financial
   - AUM, profitability, efficiency, and earnings-quality analysis
   - Peer benchmarking and relative valuation
   - P/E sensitivity analysis
-  - Financial statement and cash-flow analysis
-  - AUM, profitability, efficiency, and earnings-quality analysis
-  - Peer benchmarking and relative valuation
-  - P/E sensitivity analysis
+
+- **[Fintech vs. Traditional Bank Stocks — Risk-Adjusted Performance Comparison](https://github.com/rushithagalidevara/af641-fintech-vs-banks)**
+  - Python (yfinance, pandas, FRED) analysis of PayPal, SoFi, and Affirm vs. JPMorgan, Bank of America, and Wells Fargo
+  - Sharpe Ratio, annualized volatility, and maximum drawdown across 2022–2025
+  - Regime-split analysis (rate-hiking vs. recovery) testing whether the risk-adjusted ranking holds across market cycles
 
 - **[Walmart vs. Target — Comparative Financial Analysis & Valuation](https://github.com/rushithagalidevara/walmart-vs-target-financial-analysis)**
   - Comparative profitability, efficiency, liquidity, and solvency analysis
@@ -33,7 +34,7 @@ I am a graduate Finance student with interests in investment research, financial
 
 **Investment Analysis:** Fundamental Analysis · Equity Valuation · Relative Valuation · Portfolio Analysis · DCF · DDM · CAPM
 
-**Data & Technology:** Microsoft Excel · Power BI · Tableau · SQL
+**Data & Technology:** Python (pandas, yfinance, matplotlib) · Microsoft Excel · Power BI · Tableau · SQL
 
 ## Currently
 
