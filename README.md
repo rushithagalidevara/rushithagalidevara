@@ -12,7 +12,7 @@ I am a graduate Finance student with interests in investment research, financial
   - Peer benchmarking and relative valuation
   - P/E sensitivity analysis
 
-- **[Fintech vs. Traditional Bank Stocks — Risk-Adjusted Performance Comparison](https://github.com/rushithagalidevara/af641-fintech-vs-banks)**
+- **[Fintech vs. Traditional Bank Stocks — Risk-Adjusted Performance Comparison](https://github.com/rushithagalidevara/Fintech-vs-Traditional-Bank-Stocks)**
   - Python (yfinance, pandas, FRED) analysis of PayPal, SoFi, and Affirm vs. JPMorgan, Bank of America, and Wells Fargo
   - Sharpe Ratio, annualized volatility, and maximum drawdown across 2022–2025
   - Regime-split analysis (rate-hiking vs. recovery) testing whether the risk-adjusted ranking holds across market cycles
@@ -23,10 +23,25 @@ I am a graduate Finance student with interests in investment research, financial
   - DCF valuation and sensitivity analysis
   - Investment conclusions for Walmart and Target
 
-- **Walmart (NYSE: WMT) — Equity Valuation**
-  - Dividend Discount Model (DDM)
+- **[Walmart (NYSE: WMT) — Equity Valuation](https://github.com/rushithagalidevara/walmart-stock-valuation)**
+  - Three-stage Dividend Discount Model (DDM)
   - CAPM-based required return
-  - Scenario and sensitivity analysis
+  - Relative (P/E) valuation against Target and the S&P 500
+
+- **[Corporate Finance Toolkit — Break-Even, Monte Carlo & Firm Valuation](https://github.com/rushithagalidevara/financial-statement-analysis)**
+  - Cost-volume-profit (break-even) analysis
+  - 200-trial Monte Carlo risk simulation
+  - FCFF / FCFE / Residual Income valuation
+
+## Business Intelligence & Dashboards
+
+- **[Order-to-Cash (O2C) Power BI Dashboard](https://github.com/rushithagalidevara/o2c-powerbi-dashboard)**
+  - AR, DSO, and collections analysis identifying a year-end cash-collection slowdown
+  - DAX measures for write-off %, DSO, and running AR
+
+- **[Retail Sales Power BI Dashboard](https://github.com/rushithagalidevara/retail-sales-powerbi-dashboard)**
+  - Sales, profitability, segment, and regional analysis on the Superstore dataset
+  - Identified a loss-making sub-category hidden inside an otherwise healthy product line
 
 ## Tools & Analytical Skills
 
