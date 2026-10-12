@@ -1,62 +1,41 @@
 # Rushitha A. S. Galidevara
 
-### M.S. Finance — Investment & Quantitative Analysis | University of Massachusetts Boston
+**M.S. Finance (Investment & Quantitative Analysis) @ UMass Boston · May 2027**
 
-I am a graduate Finance student with interests in investment research, financial analysis, equity valuation, and data-driven decision-making. My work focuses on analyzing company fundamentals, financial performance, valuation, and investment insights using financial modeling and analytical tools.
+Finance analyst turning financial and market data into investment insight: equity valuation, risk-adjusted performance analysis, and BI dashboards.
 
-## Investment Research & Financial Analysis
+📌 **Open to full-time roles starting 2027:** Investment & Asset Management · Financial Analysis · Data Analytics · Finance Transformation
 
-- **[BlackRock (NYSE: BLK) — Financial Performance & Relative Valuation](https://github.com/rushithagalidevara/blackrock-financial-analysis-valuation)**
-  - Financial statement and cash-flow analysis
-  - AUM, profitability, efficiency, and earnings-quality analysis
-  - Peer benchmarking and relative valuation
-  - P/E sensitivity analysis
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushithagalidevara)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rushithaasgalidevara@gmail.com)
 
-- **[Fintech vs. Traditional Bank Stocks — Risk-Adjusted Performance Comparison](https://github.com/rushithagalidevara/Fintech-vs-Traditional-Bank-Stocks)**
-  - Python (yfinance, pandas, FRED) analysis of PayPal, SoFi, and Affirm vs. JPMorgan, Bank of America, and Wells Fargo
-  - Sharpe Ratio, annualized volatility, and maximum drawdown across 2022–2025
-  - Regime-split analysis (rate-hiking vs. recovery) testing whether the risk-adjusted ranking holds across market cycles
+---
 
-- **[Walmart vs. Target — Comparative Financial Analysis & Valuation](https://github.com/rushithagalidevara/walmart-vs-target-financial-analysis)**
-  - Comparative profitability, efficiency, liquidity, and solvency analysis
-  - DuPont and RNOA decomposition
-  - DCF valuation and sensitivity analysis
-  - Investment conclusions for Walmart and Target
+### Featured Work
 
-- **[Walmart (NYSE: WMT) — Equity Valuation](https://github.com/rushithagalidevara/walmart-stock-valuation)**
-  - Three-stage Dividend Discount Model (DDM)
-  - CAPM-based required return
-  - Relative (P/E) valuation against Target and the S&P 500
+| Project | Key result | Tools |
+|---|---|---|
+| [**Fintech vs. Bank Stocks**](https://github.com/rushithagalidevara/Fintech-vs-Traditional-Bank-Stocks) | Banks beat fintech on Sharpe Ratio in every market regime, 2022–2025 (0.46 vs. −0.22) | Python, pandas |
+| [**BlackRock Valuation**](https://github.com/rushithagalidevara/blackrock-financial-analysis-valuation) | Traced an 802 bp GAAP margin drop to acquisition charges; BLK trades at a 60% P/E premium to peers | Excel |
+| [**Walmart vs. Target**](https://github.com/rushithagalidevara/walmart-vs-target-financial-analysis) | DuPont, RNOA and DCF comparison ending in a HOLD call on both | Excel |
+| [**Order-to-Cash Dashboard**](https://github.com/rushithagalidevara/o2c-powerbi-dashboard) | Flagged a Q4 collections breakdown: $1.08M AR outstanding, 77-day DSO | Power BI, DAX |
+| [**Retail Sales Dashboard**](https://github.com/rushithagalidevara/retail-sales-powerbi-dashboard) | Found a loss-making product line (Tables, −$17.7K) hidden in healthy sales | Power BI |
+| [**Walmart Equity Valuation**](https://github.com/rushithagalidevara/walmart-stock-valuation) | Three-stage DDM, CAPM and peer P/E valuation | Excel |
+| [**Corporate Finance Toolkit**](https://github.com/rushithagalidevara/financial-statement-analysis) | Break-even, 200-trial Monte Carlo and FCFF/FCFE valuation | Excel |
 
-- **[Corporate Finance Toolkit — Break-Even, Monte Carlo & Firm Valuation](https://github.com/rushithagalidevara/financial-statement-analysis)**
-  - Cost-volume-profit (break-even) analysis
-  - 200-trial Monte Carlo risk simulation
-  - FCFF / FCFE / Residual Income valuation
+---
 
-## Business Intelligence & Dashboards
+### Skills
 
-- **[Order-to-Cash (O2C) Power BI Dashboard](https://github.com/rushithagalidevara/o2c-powerbi-dashboard)**
-  - AR, DSO, and collections analysis identifying a year-end cash-collection slowdown
-  - DAX measures for write-off %, DSO, and running AR
+**Finance:** DCF · DDM · CAPM · Relative Valuation · DuPont · Financial Modeling · Portfolio & Risk Analysis
 
-- **[Retail Sales Power BI Dashboard](https://github.com/rushithagalidevara/retail-sales-powerbi-dashboard)**
-  - Sales, profitability, segment, and regional analysis on the Superstore dataset
-  - Identified a loss-making sub-category hidden inside an otherwise healthy product line
+**Tools:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=flat&logo=bloomberg&logoColor=white)
 
-## Tools & Analytical Skills
-
-**Financial Analysis:** Financial Modeling · Financial Statement Analysis · Ratio Analysis · Sensitivity Analysis
-
-**Investment Analysis:** Fundamental Analysis · Equity Valuation · Relative Valuation · Portfolio Analysis · DCF · DDM · CAPM
-
-**Data & Technology:** Python (pandas, yfinance, matplotlib) · Microsoft Excel · Power BI · Tableau · SQL
-
-## Currently
-
-- Pursuing an **M.S. in Finance — Investment & Quantitative Analysis** at UMass Boston
-- **Bloomberg Market Concepts (BMC)**
-- **FMVA® — In Progress**
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/rushithagalidevara)
+**Certifications:** Bloomberg Market Concepts (BMC) · FMVA® (in progress)
